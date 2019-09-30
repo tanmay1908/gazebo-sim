@@ -6,4 +6,4 @@ Then in the therminal, run the following command:
 ```
 $ gazebo world_rev_2.launch
 ```
-#Note: Rev2 is the current version. Might add new features in the future
+Note: Rev2 is the current version. Might add new features in the future
