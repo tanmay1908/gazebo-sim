@@ -1,8 +1,9 @@
 # gazebo-sim
 A Gazeo simulation of my apartment. Uses different textures, walls, windows, doors, imported objects and objects designed in the model editor
+The code also includes a script which prints "Welcome to Tanmay's world" when the simulation loads
 
 To run, you need the latest version of Gazebo installed in your computer
-Then in the therminal, run the following command:
+Then in the therminal, navigate to src/world and run the following command:
 ```
 $ gazebo world_rev_2.launch
 ```
